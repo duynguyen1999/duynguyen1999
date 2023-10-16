@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 👋 Hi! Welcome to my GitHub .
+- 🔭 I'm Duy Nguyen
+- 🔭 I am a Software Engineer from vietnamese
